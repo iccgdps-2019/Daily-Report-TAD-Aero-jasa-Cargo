@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Dashboard Pekerjaan</title>
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      overflow: hidden; /* Mencegah scrollbar ganda */
+      background-color: #f3f4f6;
+    }
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <iframe src="https://script.google.com/macros/s/AKfycbwxJ-aNutXCi36c7k4MwgKV-LLJ9wxhgM0R_GtnRj7iJwqXMCC8L2A7RtbPYqeXst9b/exec"></iframe>
+</body>
+</html>
